@@ -1,14 +1,17 @@
 <h1>Overview</h1>
-Goal: To create a tool that turns technical medical data into easy-to-understand language to
+<h2>Goal</h2>
+<p>To create a tool that turns technical medical data into easy-to-understand language to
 help patients better understand their health status and align their main concerns with their
-doctor’s.
-Chosen target group: Paediatric patients
+doctor’s.</p>
+<br/>
+<h2>Chosen target group: Paediatric patients</h2>
 Idea: To make our target group understand more about their medical condition to promote
 increased compliance with medication and surgical recommendations.
-Solution:
-Our team created a virtual pal named Sofia for the patients. This way, they will be able to
+<br/>
+<h2>Solution</h2>:
+<p>Our team created a virtual pal named Sofia for the patients. This way, they will be able to
 relate better with the companion and feel more reassured that the patient has a virtual pal
-who is going through the same thing they are going through.
+who is going through the same thing they are going through.<p>
 Sofia has several features:
 1. Log in/Sign up page
 It allows for personalisation of accessibility options and fast access to personal information -
