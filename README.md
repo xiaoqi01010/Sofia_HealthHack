@@ -25,21 +25,21 @@ After collecting the information that belongs to the patient, the app will also 
 information from the Doctor in-charge of the patient and this button will allow
 quick/emergency access to call the doctor through a channel of the patient's choice (i.e.
 direct call for urgent situations/Whatsapp for casual communication).</ul>
-<ul>3. Sofia’s World
+<ul>3. <h4>Sofia’s World</h4>
 A feature that allows the patient to directly interact with their new friend, Sofia. There are
 several features that it comes with.
-<ol>a. Ask Sofia Questions
+<ol>a. <h4>Ask Sofia Questions</h4>
 This feature contains a chatbot that can share information regarding cancers and
 other terminal illnesses to educate and enrich the patient whenever they are curious.
 The content will be filtered appropriately and the chatbot provides a positive and
 optimistic perspective of their condition.</ol>
 
-<ol>b. SmartyPal
+<ol>b. <h4>SmartyPal </h4>
 A point-collecting feature to test the patients of their knowledge on various
 health-related topics. The content quizzed will be easy and explained in the ‘Ask
 Sofia Questions’ feature.</ol>
 
-<ol>c. Talk to People like Sofia!
+<ol>c. <h4>Talk to People like Sofia!</h4>
 This button links the patient to an external social media so that the patient can
 possibly reach out to their friends and/or people who have experiences/are
 experiencing the same thing. This can boost their morale and outlook on life</ol></ul>
