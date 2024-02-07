@@ -31,10 +31,12 @@ This feature contains a chatbot that can share information regarding cancers and
 other terminal illnesses to educate and enrich the patient whenever they are curious.
 The content will be filtered appropriately and the chatbot provides a positive and
 optimistic perspective of their condition.</ol>
+  <br/>
 <ol>b. SmartyPal
 A point-collecting feature to test the patients of their knowledge on various
 health-related topics. The content quizzed will be easy and explained in the ‘Ask
 Sofia Questions’ feature.</ol>
+  <br/>
 <ol>c. Talk to People like Sofia!
 This button links the patient to an external social media so that the patient can
 possibly reach out to their friends and/or people who have experiences/are
