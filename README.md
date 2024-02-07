@@ -1,5 +1,4 @@
-##Built on Power Platform(low code environment)
-Overview
+<h1>Overview</h1>
 Goal: To create a tool that turns technical medical data into easy-to-understand language to
 help patients better understand their health status and align their main concerns with their
 doctor’s.
