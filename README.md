@@ -14,7 +14,6 @@ relate better with the companion and feel more reassured that the patient has a 
 who is going through the same thing they are going through.<p>
   
 <h2>Sofia's features</h2>
-<li>
 <ul>1. Log in/Sign up page
 It allows for personalisation of accessibility options and fast access to personal information -
 even hospital information - in future versions. Two-step authentication in future
@@ -39,4 +38,4 @@ Sofia Questions’ feature.</ol>
 <ol>c. Talk to People like Sofia!
 This button links the patient to an external social media so that the patient can
 possibly reach out to their friends and/or people who have experiences/are
-experiencing the same thing. This can boost their morale and outlook on life</ol></ul></li>
+experiencing the same thing. This can boost their morale and outlook on life</ol></ul>
