@@ -25,7 +25,7 @@ After collecting the information that belongs to the patient, the app will also 
 information from the Doctor in-charge of the patient and this button will allow
 quick/emergency access to call the doctor through a channel of the patient's choice (i.e.
 direct call for urgent situations/Whatsapp for casual communication).</ul>
-<ul>Sofia’s World
+<ul>3. Sofia’s World
 A feature that allows the patient to directly interact with their new friend, Sofia. There are
 several features that it comes with.
 <ol><h4>a. Ask Sofia Questions</h4>
