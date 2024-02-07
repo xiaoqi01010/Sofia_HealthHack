@@ -15,7 +15,7 @@ who is going through the same thing they are going through.<p>
   
 <h2>Sofia's features</h2>
 <li>
-  <ul>1. Log in/Sign up page
+<ul>1. Log in/Sign up page
 It allows for personalisation of accessibility options and fast access to personal information -
 even hospital information - in future versions. Two-step authentication in future
 implementations as well to ensure the safety of the patients data.</ul>
