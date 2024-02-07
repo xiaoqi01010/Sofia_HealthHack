@@ -8,7 +8,7 @@ doctor’s.</p>
 To make our target group understand more about their medical condition to promote
 increased compliance with medication and surgical recommendations.
 <br/>
-<h2>Solution</h2>:
+<h2>Solution</h2>
 <p>Our team created a virtual pal named Sofia for the patients. This way, they will be able to
 relate better with the companion and feel more reassured that the patient has a virtual pal
 who is going through the same thing they are going through.<p>
